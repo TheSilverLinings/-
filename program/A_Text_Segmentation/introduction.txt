@@ -1,5 +1,0 @@
-This part is about text segmentation.
-
-Two kind of methods have been try:
-1. LTP  
-2. jieba
