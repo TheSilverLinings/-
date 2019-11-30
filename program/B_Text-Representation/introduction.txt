@@ -1,0 +1,7 @@
+This part is about text representation.
+
+Four kind of methods have been try:
+1. TF-IDF 
+2. WORD2VEC
+3. DOC2VEC
+4. LLNM model
