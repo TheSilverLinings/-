@@ -1,0 +1,6 @@
+This part is about text clustering.
+
+Three kind of methons have been try:
+1. K-means
+2. DBSCAN
+3. Spectral-Clustering
